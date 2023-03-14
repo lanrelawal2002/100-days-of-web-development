@@ -1,12 +1,27 @@
+body {
+  text-align: center;
+  margin: 50px;
+  background-color: rgba(16, 7, 12, 0.356);
+  /* background-color: rgb(241, 139, 139); */
+  /* background-color: rgb(216, 94, 94); */
+  /* background-color: rgba(216, 94, 94, 0.701); */
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+
 h1 {
   font-family: "Oswald", sans-serif;
-  text-align: center;
+  /* text-align: center; */
   color: rgb(121, 125, 5);
 }
 
 p {
   font-family: "Fira Sans", sans-serif;
-  text-align: center;
+  /* text-align: center; */
   color: rgb(76, 94, 76);
 }
 
