@@ -1,10 +1,7 @@
 body {
-  text-align: center;
-  margin: 50px;
-  background-color: rgba(16, 7, 12, 0.424);
+  background-color: rgb(15, 8, 12, 0.23);
   /* background-color: rgba(241, 139, 139, 0.652); */
-  /* background-color: rgb(216, 94, 94); */
-  /* background-color: rgba(216, 94, 94, 0.701); */
+  /* background-color: rgba(216, 94, 94, 0.37); */
 }
 
 img {
@@ -13,26 +10,14 @@ img {
   border-radius: 150px;
 }
 
-h1 {
-  font-family: "Oswald", sans-serif;
-  /* text-align: center; */
-  color: rgb(121, 125, 5);
-}
-
 p {
   font-family: "Fira Sans", sans-serif;
-  /* text-align: center; */
   color: rgb(76, 94, 76);
 }
 
 a {
   color: rgb(121, 6, 6);
   text-decoration: none;
-}
-
-a:hover {
-  /* color: rgb(192, 192, 8); */
-  text-decoration: underline;
 }
 
 #specifically-dive {
