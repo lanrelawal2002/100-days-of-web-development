@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(16, 17, 12, 0.23);
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: rgb(41, 2, 42);
+  font-size: 20px;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(2, 79, 155);
+}
