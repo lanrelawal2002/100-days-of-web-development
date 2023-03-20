@@ -1,29 +1,8 @@
-h1 {
-  font-family: "Oswald", tahoma;
-  text-align: center;
-  /* text-align: left; */
-  color: rgb(3, 73, 94); /* keep using the rgb color format */
-}
-
-p {
-  font-family: "Open Sans", sans-serif;
-  text-align: left;
-  color: rgb(102, 64, 12);
-  font-size: 20px;
-}
-
-a {
-  color: rgb(10, 126, 126);
-  text-decoration: none;
-  cursor: pointer;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 #depend-on-others {
-  font-size: 24px;
-  font-weight: bolder;
-  color: rgb(122, 12, 177);
+  font-weight: 600;
+  color: rgba(122, 12, 177, 0.773);
+}
+
+#summary-only {
+  font-size: 18px;
 }
