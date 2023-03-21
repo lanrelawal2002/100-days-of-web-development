@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(121, 125, 5);
+}
+
+a:hover {
+  text-decoration: underline;
+}

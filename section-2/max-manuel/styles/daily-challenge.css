@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(15, 8, 12, 0.23);
+  /* background-color: rgba(241, 139, 139, 0.652); */
+  /* background-color: rgba(216, 94, 94, 0.37); */
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(76, 94, 76);
+}
+
+a {
+  color: rgb(121, 6, 6);
+  text-decoration: none;
+}
+
+#specifically-dive {
+  color: rgb(99, 5, 102);
+  font-weight: bold;
+  font-size: 33px;
+}
