@@ -2,6 +2,10 @@ body {
   background-color: rgb(16, 17, 12, 0.23);
 }
 
+h1 {
+  margin: 12px 0px;
+}
+
 p {
   font-family: "Open Sans", sans-serif;
   color: rgb(41, 2, 42);
@@ -15,8 +19,8 @@ a {
   color: rgb(255, 255, 255);
   font-size: 24px;
   border-radius: 4px;
-  padding: 10px;
-  border: 11px solid yellowgreen;
+  padding: 12px 24px;
+  border: 5px solid rgb(167, 1, 78);
 }
 
 a:hover {
@@ -25,12 +29,15 @@ a:hover {
 
 ol {
   list-style: none;
+  width: 500px;
+  margin: 36px auto 36px auto;
+  padding: 0px;
 }
 
 li {
   margin: 32px;
+  padding: 15px;
   background-color: rgb(223, 136, 124);
   color: rgb(83, 75, 75);
   border-radius: 6px;
 }
-
