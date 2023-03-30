@@ -6,11 +6,26 @@ h1 {
   margin: 12px 0px;
 }
 
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(90, 65, 65);
+}
+
 p {
   font-family: "Open Sans", sans-serif;
   color: rgb(41, 2, 42);
   font-size: 20px;
   font-weight: 300;
+}
+
+header > p {
+  margin-bottom: 35px;
+}
+
+main p {
+  margin: 10px;
+  /* color: rgba(12, 9, 12, 0.945); */
+  color: rgb(0, 0, 0);
 }
 
 a {
