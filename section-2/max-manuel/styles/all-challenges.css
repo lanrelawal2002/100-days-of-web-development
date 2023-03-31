@@ -1,3 +1,11 @@
+header {
+  margin-bottom: 65px;
+}
+
+.master-basic {
+  background-color: rgb(223, 112, 98);
+}
+
 body {
   background-color: rgb(16, 17, 12, 0.23);
 }
@@ -18,14 +26,14 @@ p {
   font-weight: 300;
 }
 
-header > p {
+#objectives-statement {
   margin-bottom: 35px;
 }
 
 main p {
   margin: 10px;
   /* color: rgba(12, 9, 12, 0.945); */
-  color: rgb(0, 0, 0);
+  color: rgb(3, 37, 34);
 }
 
 a {
@@ -52,7 +60,7 @@ ol {
 li {
   margin: 32px;
   padding: 15px;
-  background-color: rgb(223, 136, 124);
+  background-color: rgb(221, 133, 121);
   color: rgb(83, 75, 75);
   border-radius: 6px;
 }
