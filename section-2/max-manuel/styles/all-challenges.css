@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  margin: 12px 0px;
+  margin: 0px;
 }
 
 h2 {
@@ -27,7 +27,7 @@ p {
 }
 
 #objectives-statement {
-  margin-bottom: 35px;
+  margin: 12px 0px;
 }
 
 main p {
@@ -42,8 +42,10 @@ a {
   color: rgb(255, 255, 255);
   font-size: 24px;
   border-radius: 4px;
-  padding: 12px 24px;
-  border: 5px solid rgb(167, 1, 78);
+  border: 1px solid rgb(167, 1, 78);
+  display: inline-block;
+  margin: 0px;
+  padding: 18px 24px;
 }
 
 a:hover {
@@ -63,4 +65,5 @@ li {
   background-color: rgb(221, 133, 121);
   color: rgb(83, 75, 75);
   border-radius: 6px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
