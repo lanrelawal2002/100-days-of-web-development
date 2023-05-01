@@ -1,7 +1,6 @@
 body {
-  margin: 50px;
-  /* background-color: rgba(54, 49, 49, 0.477); */
-  background-color: rgb(200, 198, 198);
+  margin: 89px 90px 90px;
+  /* background-color: rgb(246, 246, 246); */
 }
 
 h1 {
@@ -12,9 +11,9 @@ h1 {
 
 p {
   font-family: "Open Sans", sans-serif;
-  text-align: left;
-  color: rgb(102, 64, 12);
-  font-size: 20px;
+  text-align: justify;
+  /* color: rgb(102, 64, 12); */
+  font-size: 21px;
 }
 
 a {
