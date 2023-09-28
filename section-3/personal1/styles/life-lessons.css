@@ -1,0 +1,24 @@
+header {
+  margin: 12px;
+  text-align: center;
+}
+
+main {
+  margin: 5px 55px 55px;
+  padding: 10px 50px 50px;
+}
+
+h1 {
+  font-size: 35px;
+  margin: 5px 5px;
+}
+
+a#summary-only {
+  font-size: 20px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+a.increase-power {
+  color: rgb(255, 0, 0);
+}
